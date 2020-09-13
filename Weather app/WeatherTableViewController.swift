@@ -17,9 +17,6 @@ class WeatherViewController: UIViewController, UITableViewDelegate, UITableViewD
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem
-//        tableView.tableFooterView = UIView(frame: CGRect(x: 0, y: 0, width: 0, height: 0))
-//        self.tableView.separatorStyle = UIColor.none
-//        tableView.tableFooterView = UIView()
         
     }
 
